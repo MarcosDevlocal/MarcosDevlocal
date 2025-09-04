@@ -1,7 +1,9 @@
 <h1 align="center">Welcome to my GitHub site!</h1>
 <h3 align="center">Marcos López Ortego, professional, creative, and keen to learn!</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcosdevlocal&label=Profile%20views&color=0e75b6&style=flat" alt="marcosdevlocal" /> </p>
+<img width="1584" height="396" alt="Banner para Linkedin Portada Minimalista Negro(3)" src="https://github.com/user-attachments/assets/3d77036d-2294-4a1d-b1cc-1b4c34a67aa3" />
 
 - 🔭 I’m currently working on **backend and frontend development**
 
