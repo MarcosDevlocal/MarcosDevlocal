@@ -7,7 +7,6 @@
 I create systems that feel simple, clear, and reliable — weaving together data, web, and IT infrastructure in a human-friendly way.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=marcosdevlocal&label=Profile+views&style=for-the-badge&color=7AA2F7" alt="Profile Views" style="margin-top:1em;"/>
 
 </div>
 
