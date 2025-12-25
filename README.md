@@ -1,46 +1,91 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Marcos+López+Ortego;Full-Stack+Developer+from+Spain;React+%7C+Spring+Boot+%7C+Mobile+Dev;Always+learning+new+things+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Marcos+López+Ortego;Full-Stack+Developer+from+Spain;I+build+calm%2C+scalable+software;Web+%7C+Data+%7C+Mobile+Development" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=marcosdevlocal&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=marcosdevlocal&label=Profile%20views&style=for-the-badge&color=7AA2F7"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌿 About Me
 
-💻 **Full-Stack Developer** from Spain  
-🔭 Building a **Finance & Productivity Web App** using **React + Spring Boot**  
-🌱 Currently learning **Mobile Development with Android Studio**  
-👯 Open to collaborate on **Full-Stack projects & Linux-based systems**  
-🤝 Interested in **Blockchain & data-driven development**  
+I’m a **Full-Stack Developer** from Spain who enjoys building **clear, maintainable and human-friendly software**, especially when technology helps make complex information easier to understand.
 
-📫 **Let’s connect on LinkedIn — always happy to talk tech!**
+- 🔭 Worked on **data-oriented web systems** in academic environments  
+- 🌱 Currently learning **Mobile Development with Android Studio**
+- 🐧 Comfortable working with **Linux-based systems**
+- 📊 Interested in **data visualization and information systems**
+- 💡 I value **clarity over cleverness** and **steady improvement over hype**
 
 ---
 
-## 🌐 Connect with me
+## 💼 Work Experience
+
+> Places where I’ve grown both technically and professionally.
+
+<table>
+<tr>
+<td width="80" align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Logo_Universidad_de_Burgos.svg" width="55" alt="University of Burgos logo"/>
+</td>
+<td>
+
+### Web Developer — **Tourism Observatory, University of Burgos**
+<sub>📍 Burgos, Spain · 🗓️ 2023</sub>
+
+- Developed the **Tourism Observatory Information System**, a web-based platform designed to present tourism data in a clear and structured way
+- Built the frontend using **HTML, CSS, and vanilla JavaScript**, focusing on simplicity, accessibility, and long-term maintainability
+- Integrated **Power BI dashboards** into the platform using **Microsoft Power Pages**
+- Designed and created a **custom Power BI dashboard** analyzing wineries in the province of Burgos
+- Gained hands-on experience with **statistical data interpretation** and modern data visualization practices
+- Worked closely with a small, organized team gradually modernizing how institutional data is presented within the university
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧭 What I Enjoy Building
+
+- 🧩 **Information systems** that turn data into something understandable
+- 📊 Calm and structured **data visualizations**
+- 🎨 Frontends that prioritize **clarity and usability**
+- ⚙️ Systems that are simple by design and easy to maintain
+- 🏛️ Software used in **educational or institutional contexts**
+
+---
+
+## ☕ Tech Stack (Daily Tools)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,ts,spring,postgres,git,linux&perline=10" />
+</p>
+
+### 🧰 Also Worked With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,python,kafka,docker,mysql,mariadb,tailwind,android,kotlin,reactnative,unity,bash&perline=9" />
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/marcos lópez ortego" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=android,bash,cs,css,docker,dotnet,git,html,java,js,kafka,kotlin,linux,mariadb,mysql,postgres,python,react,reactnative,spring,tailwind,ts,unity&perline=8" />
-</p>
+> Always happy to connect with other developers and exchange ideas.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -52,11 +97,37 @@
 
 ---
 
-## 🧠 Philosophy
+## 🛤️ Current Focus
 
-> *“Build things. Break them. Learn. Repeat.”*  
-> Clean code · Scalable systems · Constant improvement
+- 📐 Improving **system design and architecture**
+- 📊 Deepening knowledge in **data visualization**
+- 📱 Expanding into **mobile development**
+- 🧪 Writing more **robust and testable code**
 
 ---
 
-🚧 **Portfolio, blog & experience sections — under construction… but coming soon 😉**
+## 🧘 Development Philosophy
+
+> *“Well-organized systems make complex realities easier to understand.”*
+
+- Prefer clarity over unnecessary abstraction  
+- Let systems evolve gradually  
+- Build software that feels calm to use and maintain
+
+---
+
+## 🚧 Coming Soon
+
+- 🌍 Personal portfolio  
+- ✍️ Technical articles & learning notes  
+- 📁 More real-world projects  
+
+*(Under construction — thoughtfully and steadily 🙂)*
+
+---
+
+<div align="center">
+
+✨ Thanks for stopping by — feel free to explore or reach out ✨
+
+</div>
