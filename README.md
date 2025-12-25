@@ -1,9 +1,10 @@
 <div align="center">
 
-<h1 style="font-size:2.2em; margin-bottom:0.2em;">Hi 👋, I'm Marcos López Ortego</h1>
-<h3 style="font-weight:400; margin-top:0.2em;">Full-Stack Developer from Spain</h3>
+<h1 style="font-size:2.2em; margin-bottom:0.2em;">🌿 Marcos López Ortego</h1>
+<h3 style="font-weight:400; margin-top:0.2em; color:#6c757d;">Full-Stack Developer crafting calm and approachable software</h3>
+
 <p style="margin-top:0.5em; font-size:1em; color:#6c757d;">
-I build calm, scalable software and enjoy making complex systems feel simple and approachable — Web | Systems | Data Visualization
+I create systems that feel simple, clear, and reliable — weaving together data, web, and IT infrastructure in a human-friendly way.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=marcosdevlocal&label=Profile+views&style=for-the-badge&color=7AA2F7" alt="Profile Views" style="margin-top:1em;"/>
@@ -88,7 +89,7 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/marcos lópez ortego" target="_blank">
+  <a href="https://www.linkedin.com/in/marcos-l%C3%B3pez-ortego-537736218/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
