@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Marcos+López+Ortego;Full-Stack+Developer+from+Spain;I+build+calm%2C+scalable+software;Web+%7C+Data+%7C+Mobile+Development" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Marcos+López+Ortego;Full-Stack+Developer+from+Spain;I+build+calm%2C+scalable+software;Web+%7C+Systems+%7C+Data+Visualization" />
 
 <br/>
 
@@ -12,57 +12,68 @@
 
 ## 🌿 About Me
 
-I’m a **Full-Stack Developer** from Spain who enjoys building **clear, maintainable and human-friendly software**, especially when technology helps make complex information easier to understand.
+I’m a **Full-Stack Developer** from Spain with a background in **computer systems, networking, and data-oriented web development**.  
+I enjoy building **clear, maintainable software** and understanding the systems that run underneath it.
 
-- 🔭 Worked on **data-oriented web systems** in academic environments  
+- 🔭 Experience in **institutional data systems and IT environments**
 - 🌱 Currently learning **Mobile Development with Android Studio**
-- 🐧 Comfortable working with **Linux-based systems**
-- 📊 Interested in **data visualization and information systems**
-- 💡 I value **clarity over cleverness** and **steady improvement over hype**
+- 🐧 Comfortable working with **Linux and Windows-based systems**
+- 📊 Passionate about **data visualization and structured information systems**
+- 💡 I value **clarity, practicality, and steady improvement**
 
 ---
 
 ## 💼 Work Experience
 
-> Places where I’ve grown both technically and professionally.
+> Experiences where I’ve grown technically and professionally.
 
-<table>
-<tr>
-<td width="80" align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Logo_Universidad_de_Burgos.svg" width="55" alt="University of Burgos logo"/>
-</td>
-<td>
+### 🖥️ Computer Technician — Self-Employed IT Professional (Curricular Internship)
+<sub>📍 Burgos, Spain · 2024</sub>
 
-### Web Developer — **Tourism Observatory, University of Burgos**
-<sub>📍 Burgos, Spain · 🗓️ 2023</sub>
+- Worked as part of my VET studies in *Computer Systems and Networks*  
+- Installed and configured **IP cameras**, structured cabling, and networks for small businesses (dental clinics, car dealerships)  
+- Managed **Windows Server environments** and performed routine IT maintenance  
+- Built and repaired computers; applied **PXE boot for multi-device setups** to accelerate configuration  
+- Learned **system cloning techniques** using Ventoy and related tools  
+- Troubleshot **Apple environment issues**, leveraging mentor’s Apple-certified experience  
 
-- Developed the **Tourism Observatory Information System**, a web-based platform designed to present tourism data in a clear and structured way
-- Built the frontend using **HTML, CSS, and vanilla JavaScript**, focusing on simplicity, accessibility, and long-term maintainability
-- Integrated **Power BI dashboards** into the platform using **Microsoft Power Pages**
-- Designed and created a **custom Power BI dashboard** analyzing wineries in the province of Burgos
-- Gained hands-on experience with **statistical data interpretation** and modern data visualization practices
-- Worked closely with a small, organized team gradually modernizing how institutional data is presented within the university
+---
 
-</td>
-</tr>
-</table>
+### 🖥️ IT Support Technician — Computer Repair Company (Curricular Placement)
+<sub>📍 Burgos, Spain · 1 week</sub>
+
+- Diagnosed and repaired desktop computers professionally  
+- Installed and configured operating systems  
+- Reinforced best practices for **hardware troubleshooting and workflow efficiency**
+
+---
+
+### 🌍 Web Developer — Tourism Observatory, University of Burgos (Curricular Internship)
+<sub>📍 Burgos, Spain · 2025</sub>
+
+- Developed the **Tourism Observatory Information System**, a web platform presenting tourism data  
+- Built the frontend with **HTML, CSS, and vanilla JavaScript**  
+- Integrated **Power BI dashboards** using **Microsoft Power Pages**  
+- Created a **custom Power BI dashboard** analyzing wineries in Burgos  
+- Gained experience in **statistical data visualization** and presenting complex data clearly  
+- Collaborated with a **small, modernizing academic team** improving institutional data communication
 
 ---
 
 ## 🧭 What I Enjoy Building
 
-- 🧩 **Information systems** that turn data into something understandable
-- 📊 Calm and structured **data visualizations**
-- 🎨 Frontends that prioritize **clarity and usability**
-- ⚙️ Systems that are simple by design and easy to maintain
-- 🏛️ Software used in **educational or institutional contexts**
+- 🧩 **Information systems** that make data understandable  
+- 🖥️ Reliable **IT and system-level solutions**  
+- 📊 Calm, structured **data visualizations**  
+- 🎨 Frontends focused on **clarity and usability**  
+- ⚙️ Systems that are **simple, stable, and maintainable**  
 
 ---
 
-## ☕ Tech Stack (Daily Tools)
+## ☕ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,ts,spring,postgres,git,linux&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,ts,spring,postgres,git,linux,windows&perline=11" />
 </p>
 
 ### 🧰 Also Worked With
@@ -81,7 +92,7 @@ I’m a **Full-Stack Developer** from Spain who enjoys building **clear, maintai
   </a>
 </p>
 
-> Always happy to connect with other developers and exchange ideas.
+> Always happy to connect with other developers and share ideas.
 
 ---
 
@@ -99,27 +110,27 @@ I’m a **Full-Stack Developer** from Spain who enjoys building **clear, maintai
 
 ## 🛤️ Current Focus
 
-- 📐 Improving **system design and architecture**
-- 📊 Deepening knowledge in **data visualization**
-- 📱 Expanding into **mobile development**
-- 🧪 Writing more **robust and testable code**
+- 📐 Improving **system design and architecture**  
+- 📊 Deepening knowledge in **data visualization**  
+- 📱 Expanding into **mobile development**  
+- 🧪 Writing **robust, maintainable, and testable code**  
 
 ---
 
 ## 🧘 Development Philosophy
 
-> *“Well-organized systems make complex realities easier to understand.”*
+> *“Understanding systems deeply makes building software easier.”*
 
-- Prefer clarity over unnecessary abstraction  
-- Let systems evolve gradually  
-- Build software that feels calm to use and maintain
+- Strong foundations matter  
+- Simple systems scale better  
+- Calm code is easier to maintain  
 
 ---
 
 ## 🚧 Coming Soon
 
 - 🌍 Personal portfolio  
-- ✍️ Technical articles & learning notes  
+- ✍️ Technical articles & dev notes  
 - 📁 More real-world projects  
 
 *(Under construction — thoughtfully and steadily 🙂)*
