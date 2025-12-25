@@ -7,7 +7,6 @@
 I create systems that feel simple, clear, and reliable — weaving together data, web, and IT infrastructure in a human-friendly way.
 </p>
 
-
 </div>
 
 ---
@@ -31,26 +30,44 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 ### 🖥️ Computer Technician — Self-Employed IT Professional (Curricular Internship)
 <sub>📍 Spain · 2021 – 2022</sub>
 
+<p align="left">
+  <!-- Optional logo -->
+  <!-- <img src="https://example.com/logo.png" alt="Company Logo" width="80" height="80" style="margin-right:15px; float:left;"/> -->
+</p>
+
 - Worked as part of my VET studies in *Computer Systems and Networks*  
 - Installed and configured **IP cameras**, structured cabling, and networks for small businesses (dental clinics, car dealerships)  
 - Managed **Windows Server environments** and performed routine IT maintenance  
 - Built and repaired computers; applied **PXE boot for multi-device setups** to accelerate configuration  
 - Learned **system cloning techniques** using Ventoy and related tools  
-- Troubleshot **Apple environment issues**, leveraging mentor’s Apple-certified experience  
+- Troubleshot **Apple environment issues**, leveraging mentor’s Apple-certified experience
+
+<div style="clear:both;"></div>
 
 ---
 
 ### 🖥️ IT Support Technician — Computer Repair Company (Curricular Placement)
 <sub>📍 Spain · 1 week</sub>
 
+<p align="left">
+  <!-- Optional logo -->
+  <!-- <img src="https://example.com/logo.png" alt="Company Logo" width="80" height="80" style="margin-right:15px; float:left;"/> -->
+</p>
+
 - Diagnosed and repaired desktop computers professionally  
 - Installed and configured operating systems  
 - Reinforced best practices for **hardware troubleshooting and workflow efficiency**
+
+<div style="clear:both;"></div>
 
 ---
 
 ### 🌍 Web Developer — Tourism Observatory, University of Burgos (Curricular Internship)
 <sub>📍 Burgos, Spain · 2023</sub>
+
+<p align="left">
+  <img src="https://www.ubu.es/sites/default/files/2025-04/UBU_logo_0_5.svg" width="80" height="80" style="margin-right:15px; float:left;"/>
+</p>
 
 - Developed the **Tourism Observatory Information System**, a web platform presenting tourism data  
 - Built the frontend with **HTML, CSS, and vanilla JavaScript**  
@@ -58,6 +75,8 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 - Created a **custom Power BI dashboard** analyzing wineries in Burgos  
 - Gained experience in **statistical data visualization** and presenting complex data clearly  
 - Collaborated with a **small, modernizing academic team** improving institutional data communication
+
+<div style="clear:both;"></div>
 
 ---
 
