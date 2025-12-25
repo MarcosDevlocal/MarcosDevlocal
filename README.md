@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Marcos+López+Ortego;Full-Stack+Developer+from+Spain;I+build+calm%2C+scalable+software;Web+%7C+Systems+%7C+Data+Visualization" />
+<h1 style="font-size:2.2em; margin-bottom:0.2em;">Hi 👋, I'm Marcos López Ortego</h1>
+<h3 style="font-weight:400; margin-top:0.2em;">Full-Stack Developer from Spain</h3>
+<p style="margin-top:0.5em; font-size:1em; color:#6c757d;">
+I build calm, scalable software and enjoy making complex systems feel simple and approachable — Web | Systems | Data Visualization
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=marcosdevlocal&label=Profile%20views&style=for-the-badge&color=7AA2F7"/>
+<img src="https://komarev.com/ghpvc/?username=marcosdevlocal&label=Profile+views&style=for-the-badge&color=7AA2F7" alt="Profile Views" style="margin-top:1em;"/>
 
 </div>
 
@@ -15,11 +17,10 @@
 I’m a **Full-Stack Developer** from Spain with a background in **computer systems, networking, and data-oriented web development**.  
 I enjoy building **clear, maintainable software** and understanding the systems that run underneath it.
 
-- 🔭 Experience in **institutional data systems and IT environments**
-- 🌱 Currently learning **Mobile Development with Android Studio**
-- 🐧 Comfortable working with **Linux and Windows-based systems**
-- 📊 Passionate about **data visualization and structured information systems**
-- 💡 I value **clarity, practicality, and steady improvement**
+- ✨ **Exploring new technologies:** Mobile development, data visualization, and cross-platform tools  
+- 🛠 **Hands-on problem solving:** Linux & Windows systems, IT infrastructure, and automation  
+- 🌱 **Continuous learning:** Always improving, experimenting, and growing as a developer  
+- 💡 **Designing for humans:** I value clarity, usability, and calm software experiences  
 
 ---
 
@@ -28,7 +29,7 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 > Experiences where I’ve grown technically and professionally.
 
 ### 🖥️ Computer Technician — Self-Employed IT Professional (Curricular Internship)
-<sub>📍 Burgos, Spain · 2024</sub>
+<sub>📍 Spain · 2021 – 2022</sub>
 
 - Worked as part of my VET studies in *Computer Systems and Networks*  
 - Installed and configured **IP cameras**, structured cabling, and networks for small businesses (dental clinics, car dealerships)  
@@ -40,7 +41,7 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 ---
 
 ### 🖥️ IT Support Technician — Computer Repair Company (Curricular Placement)
-<sub>📍 Burgos, Spain · 1 week</sub>
+<sub>📍 Spain · 1 week</sub>
 
 - Diagnosed and repaired desktop computers professionally  
 - Installed and configured operating systems  
@@ -49,7 +50,7 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 ---
 
 ### 🌍 Web Developer — Tourism Observatory, University of Burgos (Curricular Internship)
-<sub>📍 Burgos, Spain · 2025</sub>
+<sub>📍 Burgos, Spain · 2023</sub>
 
 - Developed the **Tourism Observatory Information System**, a web platform presenting tourism data  
 - Built the frontend with **HTML, CSS, and vanilla JavaScript**  
