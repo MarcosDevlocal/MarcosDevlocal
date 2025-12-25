@@ -62,7 +62,7 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 
 ---
 
-###🌍 Web Developer — Tourism Observatory, University of Burgos (Curricular Internship)
+### 🌍 Web Developer — Tourism Observatory, University of Burgos (Curricular Internship)
 
 <sub>📍 Burgos, Spain · 2023</sub>
 
