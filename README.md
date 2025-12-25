@@ -64,7 +64,7 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 
 ### 🌍 Web Developer — Tourism Observatory, University of Burgos (Curricular Internship)
 
-<sub>📍 Burgos, Spain · 2023</sub>
+<sub>📍 Burgos, Spain · 2025</sub>
 
 <p align="left"> <img src="https://www.ubu.es/sites/default/files/2025-04/UBU_logo_0_5.svg" alt="University of Burgos Logo" width="120" height="120" style="margin-right:20px; float:left; background-color:#f5f5f5; padding:12px; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.1);"/> </p>
 
