@@ -28,7 +28,7 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 > Experiences where I’ve grown technically and professionally.
 
 ### 🖥️ Computer Technician — Self-Employed IT Professional (Curricular Internship)
-<sub>📍 Spain · 2021 – 2022</sub>
+<sub>📍 Burgos, Spain · 2024</sub>
 
 <p align="left">
   <!-- Optional logo -->
