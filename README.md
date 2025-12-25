@@ -86,6 +86,17 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 
 ---
 
+## 🌟 GitHub Highlights
+
+<p align="center">
+- 💻 Built multiple **full-stack projects** exploring React, SpringBoot, and Android  
+- 📊 Created **data dashboards and visualizations** for academic projects  
+- 🔧 Regularly experiment with **Linux, Docker, and system automation**  
+- 🎨 Focused on **clean, maintainable code** and readable documentation  
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -95,18 +106,6 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 </p>
 
 > Always happy to connect with other developers and share ideas.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=marcosdevlocal&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosdevlocal&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
 
 ---
 
