@@ -62,19 +62,23 @@ I enjoy building **clear, maintainable software** and understanding the systems 
 
 ---
 
-### 🌍 Web Developer — Tourism Observatory, University of Burgos (Curricular Internship)
+###🌍 Web Developer — Tourism Observatory, University of Burgos (Curricular Internship)
+
 <sub>📍 Burgos, Spain · 2023</sub>
 
-<p align="left">
-  <img src="https://www.ubu.es/sites/default/files/2025-04/UBU_logo_0_5.svg" width="80" height="80" style="margin-right:15px; float:left;"/>
-</p>
+<p align="left"> <img src="https://www.ubu.es/sites/default/files/2025-04/UBU_logo_0_5.svg" alt="University of Burgos Logo" width="120" height="120" style="margin-right:20px; float:left; background-color:#f5f5f5; padding:12px; border-radius:14px; box-shadow:0 4px 12px rgba(0,0,0,0.1);"/> </p>
 
-- Developed the **Tourism Observatory Information System**, a web platform presenting tourism data  
-- Built the frontend with **HTML, CSS, and vanilla JavaScript**  
-- Integrated **Power BI dashboards** using **Microsoft Power Pages**  
-- Created a **custom Power BI dashboard** analyzing wineries in Burgos  
-- Gained experience in **statistical data visualization** and presenting complex data clearly  
-- Collaborated with a **small, modernizing academic team** improving institutional data communication
+Developed the Tourism Observatory Information System, a web platform presenting tourism data
+
+Built the frontend with HTML, CSS, and vanilla JavaScript
+
+Integrated Power BI dashboards using Microsoft Power Pages
+
+Created a custom Power BI dashboard analyzing wineries in Burgos
+
+Gained experience in statistical data visualization and presenting complex data clearly
+
+Collaborated with a small, modernizing academic team improving institutional data communication
 
 <div style="clear:both;"></div>
 
